@@ -1,2 +1,2 @@
 # Statistics
-In this repository I will push mostly theoretical cheat sheets I created myself for my statistics courses. Most of them are done in ipynb files using markdown. However, I will try to mix also small analysis code chunks to my notes.
+In this repository I will mostly push theoretical cheat sheets, which I created myself for my statistics courses. Most of them are done in ipynb files using markdown. However, I will try to mix in some small analysis code chunks in the future.
